@@ -1,8 +1,8 @@
 # Carousel-Challenge App
 
-The app consumes data from an endpoint. Tha data provided by the endpoint is an array of objects. Each object has two properties: Title (string) and Images (array).
+The app consumes data from an endpoint. Tha data provided by the endpoint is an array of objects. Each object has two properties: Title (string) and Images (array) => carousel blocks.
 
-When pressing previous or next, a random image will be selected from the Images array of an object.
+When clicking on previous/next buttons, a random image will be displayed from next/previous carousels block.
 
 ## Installation
 
@@ -33,4 +33,5 @@ Running an emulator is a very resource-intensive task and requires a high-end sy
 Pull requests are welcome.
 
 ## License
+
 [Manuel Sosa](https://manuelnsosa.me)

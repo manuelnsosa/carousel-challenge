@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
   div: {
     flexDirection: "row",
     width: "90%",
-    height: "40%",
+    height: "100%",
     marginTop: 30,
     marginBottom: 30,
     alignSelf: "center",
